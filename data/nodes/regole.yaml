@@ -6,6 +6,8 @@ Regole:
     - bridgeamesh
   Generic:
   - "Regole can get expensive, depending on your classes and whether you need to buy weapons."
+  - "This is your first chance to buy some Holy Water; it's the only way to cure Zombie without an inn/pot."
+  - "It won't be relevant for a while, but you don't want to end up in the Void with a zombie party member and have to backtrack a million screens."
   Geomancer:
   - "This is an okay spot for Geomancer to farm - the swamps outside give Bottomless Bog !Gaia, which instantly kills all the enemies that appear there."
   White-Mage:
@@ -19,7 +21,7 @@ Regole:
   UNION Time-Mage Thief:
   - "You can use the Return spell to keep trying for annoying rare steals. It sucks, but it works"
   Chemist:
-  - "This is the first chance for Chemists to stock up on Drink items."
+  - "This is also the first chance for Chemists to stock up on Drink items."
   - "You can use !Drink to Protect yourself, Haste yourself, and/or double your max HP for the rest of the fight."
   - "It's no !Mix, but it's still more broken stuff than half of this game's classes get."
   Summoner:
